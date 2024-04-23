@@ -5,3 +5,4 @@ for the workshop
 - configuration
 
   ###
+-kku code lab
